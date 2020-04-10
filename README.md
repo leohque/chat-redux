@@ -1,7 +1,4 @@
-# redux-boilerplate
-
-Simple React + Redux starter with the following config:
-
+- wagon-chat API (https://wagon-chat.herokuapp.com)
 - React, ReactDOM
 - Redux, React-Redux
 - Webpack 3
